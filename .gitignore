@@ -1,4 +1,18 @@
-*.o
-*.obj
-*.exe
-*.bin
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+
+# Debug
+Debug/
+Release/
+x64/
+x86/
